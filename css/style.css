@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../assets/video/cafeteria.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    background-color: #132849;
+    color: #ccc;
+    padding: 2rem;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+    margin-top: 2rem;
+}
+
+.card-body {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+#carrito {
+    position: fixed;
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: none;
+    right: 0;
+    /* Agrega esta línea para posicionar a la derecha */
+}
+
+.fixed-right {
+    right: 0;
+    left: auto;
+}

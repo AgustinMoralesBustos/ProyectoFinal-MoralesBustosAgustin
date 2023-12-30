@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "capuccino",
+        "precio": 2320,
+        "img": "assets/img/cafes/capuccino.jpg"
+    },
+    {
+        "nombre": "latte",
+        "precio": 2320,
+        "img": "assets/img/cafes/latte.jpg"
+    },
+    {
+        "nombre": "mocha",
+        "precio": 2570,
+        "img": "assets/img/cafes/mocha.jpg"
+    },
+    {
+        "nombre": "expreso",
+        "precio": 2200,
+        "img": "assets/img/cafes/expresso.jpg"
+    }
+]
